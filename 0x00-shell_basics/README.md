@@ -1,0 +1,1 @@
+this script is going to print the absolute path of the current peoking directory.
