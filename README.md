@@ -1,1 +1,1 @@
-this is project is all baout the basics of shall scripting.
+This is file and forder permision scropting project.
