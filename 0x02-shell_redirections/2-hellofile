@@ -1,2 +1,2 @@
 #!/bin/bash
-more -c /etc/passwd
+more /etc/passwd
