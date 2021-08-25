@@ -1,0 +1,2 @@
+qh
+echo $((2#$BINARY))~
